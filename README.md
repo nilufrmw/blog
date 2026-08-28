@@ -1,1 +1,1 @@
-video files for my [blog](https://nilu.bearblog.dev/blog/)
+web resources for my [blog](https://nilu.bearblog.dev/blog/)
